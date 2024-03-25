@@ -1,0 +1,12 @@
+{
+  "definitions": {
+    "types": [
+      {
+        "name": "user_login_request"
+      },
+      {
+        "name": "user_login_response"
+      }
+    ]
+  }
+}

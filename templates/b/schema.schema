@@ -1,0 +1,17 @@
+{
+  "apis": [
+    {
+      "name": "login",
+      "version": "1.0.0"
+    },
+    {
+      "name": "logout",
+      "version": "1.0.0"
+    },
+    {
+      "name": "login",
+      "version": "1.0.1"
+    }
+  ],
+  "$ref": "b/types.schema#/definitions"
+}

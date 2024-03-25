@@ -1,0 +1,5 @@
+{% for item in types %}
+interface {{ item.name | pascal_case }} {
+    
+}
+{% endfor %}
